@@ -8,4 +8,6 @@ A colection of short Python projects that I made to test libraries
 
 ![image](https://user-images.githubusercontent.com/91379492/199491462-2104c270-cebf-4f1a-96e8-56498187189b.png)<br>
 <sub>(cesar cifer)</sub>
-<sub> </sub>
+
+![image](https://user-images.githubusercontent.com/91379492/199493178-136a9d07-3b42-4452-b579-9e8fffa43323.png)<br>
+<sub>(digit of life)</sub>
