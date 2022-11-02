@@ -17,3 +17,6 @@ A colection of short Python projects that I made to test libraries
 
 ![image](https://user-images.githubusercontent.com/91379492/199495845-f7fb481e-93a7-4042-b5c4-4c9a57a9f6ee.png)<br>
 <sub>(Palindrome)</sub>
+
+![image](https://user-images.githubusercontent.com/91379492/199496373-6f60e021-1de9-4bb4-88cd-af12672460ba.png)<br>
+<sub>(Word searcher)</sub>
