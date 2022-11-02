@@ -14,3 +14,6 @@ A colection of short Python projects that I made to test libraries
 
 ![image](https://user-images.githubusercontent.com/91379492/199494934-37ad8860-f85e-4249-b60c-b02bf42fa981.png)<br>
 <sub>(LCD panel)</sub>
+
+![image](https://user-images.githubusercontent.com/91379492/199495845-f7fb481e-93a7-4042-b5c4-4c9a57a9f6ee.png)<br>
+<sub>(Palindrome)</sub>
