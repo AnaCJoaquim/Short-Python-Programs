@@ -11,3 +11,6 @@ A colection of short Python projects that I made to test libraries
 
 ![image](https://user-images.githubusercontent.com/91379492/199493178-136a9d07-3b42-4452-b579-9e8fffa43323.png)<br>
 <sub>(digit of life)</sub>
+
+![image](https://user-images.githubusercontent.com/91379492/199494934-37ad8860-f85e-4249-b60c-b02bf42fa981.png)<br>
+<sub>(LCD panel)</sub>
